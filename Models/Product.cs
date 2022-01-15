@@ -6,5 +6,8 @@ namespace yourOrder
     {
 
          public string urun3 {get; set;}
+
+        public string urun {get; set;}
+
     }
 }
